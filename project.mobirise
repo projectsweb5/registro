@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Idmji ",
-    "currentPage": "Hamburg.html",
+    "currentPage": "munich.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -1051,7 +1051,7 @@
           },
           "_name": "content5",
           "_sourceTheme": "mobirise-amp",
-          "_customHTML": "<section class=\"mbr-section 04\" plugins=\"amp-main\" group=\"Article\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Style</header>\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-section-btn mbr-col-md-12 mbr-col-sm-12 mbr-col-lg-8 align-center\" mbr-buttons=\"\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary-outline\" href=\"https://www.eventbrite.es/e/161270880545\" data-app-placeholder=\"Type Text\">Domingo / Sunday / Sonntag<br>17:00 - 18:30<br></a></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section 04\" plugins=\"amp-main\" group=\"Article\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Style</header>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-section-btn mbr-col-md-12 mbr-col-sm-12 mbr-col-lg-8 align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary-outline\" href=\"https://www.eventbrite.es/e/170069996939\" data-app-placeholder=\"Type Text\">Domingo / Sunday / Sonntag<br>17:00 - 18:30<br></a></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content5-33",
           "_isUserblock": true,
           "_cid": "sIlJO4W1Ea",
